@@ -306,7 +306,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## 🔄 Analytics Workflow
 
-```text
 ┌────────────────────┐
 │  SQLite3 Database  │ ──┐
 └────────────────────┘   │ (Data Extraction)
@@ -338,6 +337,10 @@ pip install pandas numpy matplotlib seaborn
              └───────────────────────┘
 
 ---
+```
+
+
+
 
 
 ## 🎓 Project Type
